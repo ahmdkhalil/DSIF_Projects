@@ -55,8 +55,8 @@ Basic EDA:
 |Average word count/tweet| 52.13 | 36.98      |
 |Maximum word count/tweet| 64    | 63         |
  
-![muftimenkwordcount](https://github.com/Mr-Ahmad-Khalil/Twitter_Classification/blob/main/images/muftimenk%20word%20count.png)
-![miziwahidwordcount](https://github.com/Mr-Ahmad-Khalil/Twitter_Classification/blob/main/images/miziwahid%20word%20count.png)
+![muftimenkwordcount](https://github.com/ahmdkhalil/DSIF_Projects/blob/main/NLP-Classification-with-Twitter-main/images/muftimenk%20word%20count.png)
+![miziwahidwordcount](https://github.com/ahmdkhalil/DSIF_Projects/blob/main/NLP-Classification-with-Twitter-main/images/miziwahid%20word%20count.png)
 
 ### 5. Modelling and Evaluation
 
@@ -67,8 +67,8 @@ Data distribution is quite balanced:
 
 Some of the top occuring words in each account:
 
-![muftimenktopword](https://github.com/Mr-Ahmad-Khalil/Twitter_Classification/blob/main/images/topword%20muftimenk.png)
-![miziwahidtopword](https://github.com/Mr-Ahmad-Khalil/Twitter_Classification/blob/main/images/topwords%20miziwahid.png)
+![muftimenktopword](https://github.com/ahmdkhalil/DSIF_Projects/blob/main/NLP-Classification-with-Twitter-main/images/topword%20muftimenk.png)
+![miziwahidtopword](https://github.com/ahmdkhalil/DSIF_Projects/blob/main/NLP-Classification-with-Twitter-main/images/topwords%20miziwahid.png)
 
 The choice of repeated words found in each accounts shows the word 'God' often. This shows how important the presence of God in their way of preaching and keeping a positive well being.
 
@@ -86,8 +86,8 @@ Summary table results:
 
 By using Logistic Regression to look at the best predicting words for each twitter account as follows:
 
-![muftimenkbestpredict](https://github.com/Mr-Ahmad-Khalil/Twitter_Classification/blob/main/images/bestpredictingwords%20muftimenk.png)
-![miziwahidbestpredict](https://github.com/Mr-Ahmad-Khalil/Twitter_Classification/blob/main/images/bestpredictingwords%20miziwahid.png)
+![muftimenkbestpredict](https://github.com/ahmdkhalil/DSIF_Projects/blob/main/NLP-Classification-with-Twitter-main/images/bestpredictingwords%20muftimenk.png)
+![miziwahidbestpredict](https://github.com/ahmdkhalil/DSIF_Projects/blob/main/NLP-Classification-with-Twitter-main/images/bestpredictingwords%20miziwahid.png)
 
 
 ### 6. Conclusion and Suggestions
