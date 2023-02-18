@@ -5,7 +5,7 @@
 Selecting a product has always been a hassle for me especially from large suppliers such as Sephora. Here is an example on how to select a product and how long it’ll take to choose the one that is suitable: 
 
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/sephora-app-gif.gif" alt="sephora-gif" style="width:300px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/sephora-app-gif.gif" alt="sephora-gif" style="width:300px;"/>
 </p>
 
 Imagine doing this repetitively until you find your preferred product. 
@@ -28,7 +28,7 @@ Here’s an example of a movie recommender system:
 
 
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/types-of-rec-sys.png" alt="sephora-gif" style="width:800px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/types-of-rec-sys.png" alt="sephora-gif" style="width:800px;"/>
 </p>
 
 
@@ -136,7 +136,7 @@ For this project I will choose to ignore the outliers. Outliers will be included
 I performed EDA to understand the data better such as the User Features:
 
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/features-after.png" style="width:800px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/features-after.png" style="width:800px;"/>
 </p>
 
 ### Define the metrics for the model
@@ -145,19 +145,19 @@ I performed EDA to understand the data better such as the User Features:
 
 ### Rating vs Rating Stars column distribution
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/ratingvsratingstars.png" style="width:800px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/ratingvsratingstars.png" style="width:800px;"/>
 </p>
 
 ### Rating Percentile
 
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/percentile-rating.png" style="width:800px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/percentile-rating.png" style="width:800px;"/>
 </p>
 
 ### Number of Products per Category
 
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/num-prod-each-cat.png" style="width:800px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/num-prod-each-cat.png" style="width:800px;"/>
 </p>
 
 ## Preprocessing text data
@@ -180,22 +180,22 @@ I performed EDA to understand the data better such as the User Features:
 
 <p align="center">
 <h4 style="font-size:30px;">Cleanser</h4>
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/wordcloud-cleanser.png" title="Cleanser" style="width:400px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/wordcloud-cleanser.png" title="Cleanser" style="width:400px;"/>
 </p>
 
 <p align="center">
 <h4 style="font-size:30px;">Facemask</h4>
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/wordcloud-facemask.png" title="Facemask" style="width:400px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/wordcloud-facemask.png" title="Facemask" style="width:400px;"/>
 </p>
 
 <p align="center">
 <h4 style="font-size:30px;">Mositurizer</h4>
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/wordcloud-moisturizer.png" title="Moisturizer" style="width:400px;"/>
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/wordcloud-moisturizer.png" title="Moisturizer" style="width:400px;"/>
 </p>
 
 <p align="center">
 <h4 style="font-size:30px;">Treatment</h4>
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/wordcloud-treatmetn.png" title="Treatment" style="width:400px;"/>     
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/wordcloud-treatmetn.png" title="Treatment" style="width:400px;"/>     
 </p>
 
 --------------------------------------------------
@@ -205,7 +205,7 @@ I performed EDA to understand the data better such as the User Features:
 High user feature count in descending order:
 
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/user-features-combined.png" style="width:900px;"/>     
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/user-features-combined.png" style="width:900px;"/>     
 </p>
 
 
@@ -217,7 +217,7 @@ High user feature count in descending order:
 Before modelling I ran a long-tail plot to remove any popular product.
 
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/long-tail-plot.png" style="width:900px;"/>     
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/long-tail-plot.png" style="width:900px;"/>     
 </p>
 
 
@@ -229,12 +229,12 @@ This makes it easy for a recommender system to learn to accurately predict these
 
 <p align="center">
 <h3 style="font-size:30px;">Inputs: Dry, Light, Hazel, Blonde</h3>
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/corr_sim-dry-light-hazel-blonde.png" width="700" height="300";"/>     
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/corr_sim-dry-light-hazel-blonde.png" width="700" height="300";"/>     
 </p>
 
 <p align="center">
 <h3 style="font-size:30px;">SVD Prediction Result</h3>
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/svd-pred.png" width="800" height="200";"/>     
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/svd-pred.png" width="800" height="200";"/>     
 </p>
 
 
@@ -246,11 +246,11 @@ This makes it easy for a recommender system to learn to accurately predict these
 2. Side by side comparison, inputs user features: Combination, Dark, Brown, Black
 
 <p align="center">
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/corr_sim-comb-dark-brown-black.png" width="700" height="300";"/>  
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/corr_sim-comb-dark-brown-black.png" width="700" height="300";"/>  
 </p>
                                                                                                                                                    
 <p align="center">                                                                                                                                                   
-<img src="https://github.com/ahmdkhalil/Skincare_Recommender_Systems/blob/main/images/svd-pred2.png" width="800" height="200";"/> 
+<img src="https://github.com/ahmdkhalil/DSIF_Projects/blob/main/Skincare_Recommender_Systems-main/images/svd-pred2.png" width="800" height="200";"/> 
 </p>
 
 --------------------------------------------------------
